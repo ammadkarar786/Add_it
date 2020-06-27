@@ -1,0 +1,12 @@
+/home/ammad/Desktop/GITHUB/assignment-quater3iot/actix/target/rls/debug/deps/actix_connect-4d03e981aea65eed.rmeta: /home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/lib.rs /home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/connect.rs /home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/connector.rs /home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/error.rs /home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/resolve.rs /home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/service.rs /home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/ssl/mod.rs /home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/uri.rs
+
+/home/ammad/Desktop/GITHUB/assignment-quater3iot/actix/target/rls/debug/deps/actix_connect-4d03e981aea65eed.d: /home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/lib.rs /home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/connect.rs /home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/connector.rs /home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/error.rs /home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/resolve.rs /home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/service.rs /home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/ssl/mod.rs /home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/uri.rs
+
+/home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/lib.rs:
+/home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/connect.rs:
+/home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/connector.rs:
+/home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/error.rs:
+/home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/resolve.rs:
+/home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/service.rs:
+/home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/ssl/mod.rs:
+/home/ammad/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-1.0.2/src/uri.rs:
